@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body{
+    margin: 0;
+    font-family: roboto;
+}
+.gray-div-5{
+    padding:100px 0 100px 100px;
+    background-color: #EFEFEF;
+}
+.box-5{
+    width: 879px;
+    height: 622px;
+}
+.hsec-5{
+    font-size: 55px;
+    font-family: Roboto Slab;
+    margin-top: 0;
+    margin-bottom: 50px;
+}
+.text-5{
+    width: 791px;
+    padding:40px;
+    box-sizing: content-box;
+    background-color: #fff;
+    border-radius: 20px;
+}
+.text-5 p{
+    width: 700px;
+    margin-bottom:40px;
+    font-size: 22px;
+}
+.text-bottom-5{
+    display: flex;
+}
+.h-third-5{
+    font-size: 30px;
+    font-family: Roboto Slab;
+}
+
+.green-div-5{
+    background-color: #9DC9C8;
+}
+.green-text-5{
+    width: 792px;
+    height: 426px;
+    box-sizing: content-box;
+    padding: 120px 0 160px 120px;
+}
+.stoimost-5{
+    font-size: 25px;
+    margin-bottom: 0;
+}
+.rub-5{
+    font-size: 80px;
+    margin-top: 0;
+}
+.kurs-5{
+    font-size: 18px;
+    width: 295px;
+}
