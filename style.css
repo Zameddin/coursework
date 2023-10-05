@@ -1,0 +1,542 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{
+    margin: 0;
+}
+
+.main-3{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.box2-3{
+width: 90%;
+margin: 0 auto;
+display: flex;
+justify-content: space-between;
+
+}
+.basliq1-3{
+    margin-top: 90px;
+    margin-bottom: 25px;
+color: #000;
+font-family: Roboto Slab;
+font-size: 55px;
+font-weight: 700;
+}
+
+.text1-3{
+color: #000;
+font-family: Roboto;
+font-size: 24px;
+font-weight: 400;
+width: 662px;
+height: 374px;
+
+}
+
+.img3-3{
+left: 50px;
+right: 200px;
+}
+
+.box1-3{
+  
+    width: 100%;
+}
+
+
+
+
+.img-3{
+    width: 300px;
+height: 313px;
+padding-top: 80px;
+margin-left: 40%;
+}
+
+.box4-3{
+    margin-right: 10%; display: inline-block;
+    margin-top: 8%;
+}
+
+
+.img2-3{
+width: 232px;
+height: 203px;
+}
+
+.box5-3{
+    display: inline-block; margin-left: 4%;
+}
+
+.basliq2-3{
+width: 150px;
+height: 39px;
+color: #000;
+font-family: Roboto;
+font-size: 25px;
+font-weight: 700;
+}
+
+.text2-3{
+margin-top: -25px; 
+display: inline-block;
+color: #000;
+font-family: Roboto;
+font-size: 18px;
+font-weight: 400;
+width: 150px;
+height: 39px;
+margin-top: 5px;
+}
+
+.box7-3{
+    display: flex;
+}
+
+.basliq3-3{
+width: 150px;
+height: 39px;
+color: #000;
+font-family: Roboto;
+font-size: 25px;
+font-style: normal;
+font-weight: 700;
+line-height: 130%; /* 32.5px */
+}
+
+.text3-3{
+width: 150px;
+height: 39px;
+color: #000;
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 130%; /* 23.4px */
+margin-top: -25px; 
+display: inline-block;
+margin-top: 5px;
+}
+
+.basliq4-3{
+width: 150px;
+height: 39px;
+color: #000;
+font-family: Roboto;
+font-size: 25px;
+font-style: normal;
+font-weight: 700;
+line-height: 130%; /* 32.5px */    
+}
+
+.text4-3{
+width: 150px;
+height: 39px;
+color: #000;
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 130%; /* 23.4px */  
+margin-top: 5px;   
+}
+
+.box6-3{
+    display: inline-block;
+    margin-left: 12%;
+    margin-top: 45px;
+}
+
+.box8-3{
+    display: inline-block;
+    margin-left: 8%;
+    margin-top: 45px;
+}
+
+.box9-3{
+    display: inline-block;
+    margin-left: 10%;
+    margin-top: 45px;
+}
+
+.box10-3{
+    display: flex;
+    width: 100%;
+}
+
+@media screen and (min-width: 700px) and (max-width: 991px) {
+    .basliq1-3{
+        width: 170.08px;
+        height: 43.335px;   
+        font-size: 42px;
+    }
+    .box1-3{
+        margin: 0;
+    }
+    
+    .text1-3{
+        width: 600px;
+        height: 174.274px;
+        font-size: 20px;
+        padding-top: 40px;
+    }
+    
+    .img-3{
+        width: 300px;
+        height: 300px;
+        padding-top: -20%;
+        display: inline-block;
+    }
+    
+   .box4-3{
+    padding-right: 50%;
+    padding-top: 20%;
+    display: inline-block;
+    margin-left: 15%;
+    margin-top: -20%;
+   }
+    .img2-3{
+        display: none;
+    }
+    
+    .basliq2-3{
+        width: 86px;
+        height: 18.173px;
+        font-size: 18px;   
+    }
+    
+    .text2-3{
+        width: 86px;
+        height: 18px;
+        font-size: 15px; 
+        margin-top: 10px;   
+    }
+    
+    .basliq3-3{
+        width: 86px;
+        height: 18.173px;
+        font-size: 18px;       
+    }
+    
+    .text3-3{
+        width: 86.892px;
+        height: 18.505px;
+        font-size: 15px;
+        margin-top: 10px;
+    }
+    
+    .basliq4-3{
+        width: 86px;
+        height: 18.173px;
+        font-size: 18px;    
+    }
+    .box3-3{
+        margin: 0;
+    }
+    .text4-3{
+        width: 76px;
+        height: 18px;
+        font-size: 15px;
+        margin-top: 10px;
+    }
+    
+    .box2-3{
+        flex-direction: column;
+    }
+    
+
+    .box10-3{
+        display: flex;
+        flex-wrap: wrap;
+        width: 240px;
+    }
+
+    .box9-3{
+        margin-top: 20px;
+        margin-left: 29px;
+    }  
+    
+    .box8-3{
+        margin-left: 38px;
+    }
+    
+}
+
+@media screen and (min-width: 992px) and (max-width: 1279px) {
+    .basliq1-3{
+        width: 200px;
+        height: 53.863px;
+        font-size: 38px;
+        margin-bottom: 60px;
+    }
+
+    .text1-3{
+        width: 600px;
+        height: 216.608px;
+        font-size: 17px
+    }
+
+    .img-3{
+        width: 280px;
+        height: 200px;
+        margin-top: 20%; 
+        margin-left: 5%;
+        
+    }
+
+    .img2-3{
+        width: 160px;
+        height: 160px;
+    }
+
+    .basliq2-3{
+        width: 86.875px;
+        height: 22.587px;
+        font-size: 17px;    
+    }
+
+    .text2-3{
+        width: 86.875px;
+        height: 22.587px;
+        font-size: 15px;
+        padding-top: 20px;    
+    }
+
+    .basliq3-3{
+        width: 86.875px;
+        height: 22.587px;
+        font-size: 17px;   
+    }
+
+    .text3-3{
+        width: 108px;
+        height: 23px;
+        font-size: 15px;  
+        padding-top: 20px;  
+    }
+
+
+    .basliq4-3{
+        width: 86.875px;
+        height: 22.587px;
+        font-size: 17px;    
+    }
+
+    .text4-3{
+        width: 86.875px;
+        height: 22.587px;
+        font-size: 16px; 
+        padding-top: 22px;   
+    }
+
+    .box6-3{
+        padding-left: 3%;
+    }
+
+    .box8-3{
+        padding-left: 6%;
+    }
+
+    .box9-3{
+        padding-left: -7%;
+    }
+}
+
+    
+@media screen and (min-width: 500px) and (max-width: 700px) {
+    .basliq1-3{
+        width: 170.08px;
+        height: 43.335px;   
+        font-size: 35px;
+    }
+    .box1-3{
+        margin: 0;
+    }
+    
+    .text1-3{
+        width: 550px;
+        height: 174.274px;
+        font-size: 20px;
+        padding-top: 40px;
+    }
+    
+    .img-3{
+        width: 200px;
+        height: 150px;
+        display: inline-block;
+    }
+    
+   .box4-3{
+    padding-right: 50%;
+    padding-top: 35%;
+    display: inline-block;
+    margin-left: 21%;
+    margin-top: -20%;
+   }
+    .img2-3{
+        display: none;
+    }
+    
+    .basliq2-3{
+        width: 86px;
+        height: 18.173px;
+        font-size: 15px;   
+    }
+    
+    .text2-3{
+        width: 86px;
+        height: 18px;
+        font-size: 12px; 
+        margin-top: 10px;   
+    }
+    
+    .basliq3-3{
+        width: 86px;
+        height: 18.173px;
+        font-size: 15px;       
+    }
+    
+    .text3-3{
+        width: 86.892px;
+        height: 18.505px;
+        font-size: 12px;
+        margin-top: 10px;
+    }
+    
+    .basliq4-3{
+        width: 86px;
+        height: 18.173px;
+        font-size: 15px;    
+    }
+    .box3-3{
+        margin: 0;
+    }
+    .text4-3{
+        width: 76px;
+        height: 18px;
+        font-size: 12px;
+        margin-top: 10px;
+    }
+    
+    .box2-3{
+        flex-direction: column;
+    }
+    
+
+    .box10-3{
+        display: flex;
+        flex-wrap: wrap;
+        width: 240px;
+    }
+
+    .box9-3{
+        margin-top: 20px;
+        margin-left: 29px;
+    }  
+    
+    .box8-3{
+        margin-left: 38px;
+    }
+}
+
+
+@media screen and (min-width: 320px) and (max-width: 500px) {
+    .basliq1-3{
+        width: 170.08px;
+        height: 43.335px;   
+        font-size: 25px;
+    }
+    .box1-3{
+        margin: 0;
+    }
+    
+    .text1-3{
+        width: 370px;
+        height: 174.274px;
+        font-size: 16px;
+        padding-top: 40px;
+    }
+    
+    .img-3{
+        width: 200px;
+        height: 150px;
+        display: inline-block;
+    }
+    
+   .box4-3{
+    padding-right: 50%;
+    padding-top: 35%;
+    display: inline-block;
+    margin-left: 8%;
+    margin-top: -20%;
+   }
+    .img2-3{
+        display: none;
+    }
+    
+    .basliq2-3{
+        width: 86px;
+        height: 18.173px;
+        font-size: 12px;   
+    }
+    
+    .text2-3{
+        width: 86px;
+        height: 18px;
+        font-size: 10px; 
+        margin-top: 10px;   
+    }
+    
+    .basliq3-3{
+        width: 86px;
+        height: 18.173px;
+        font-size: 12px;       
+    }
+    
+    .text3-3{
+        width: 86.892px;
+        height: 18.505px;
+        font-size: 10px;
+        margin-top: 10px;
+    }
+    
+    .basliq4-3{
+        width: 86px;
+        height: 18.173px;
+        font-size: 12px;    
+    }
+    .box3-3{
+        margin: 0;
+    }
+    .text4-3{
+        width: 76px;
+        height: 18px;
+        font-size: 10px;
+        margin-top: 10px;
+    }
+    
+    .box2-3{
+        flex-direction: column;
+    }
+    
+
+    .box10-3{
+        display: flex;
+        flex-wrap: wrap;
+        width: 240px;
+    }
+
+    .box9-3{
+        margin-top: 20px;
+        margin-left: 29px;
+    }  
+    
+    .box8-3{
+        margin-left: 38px;
+    }
+}
+    
