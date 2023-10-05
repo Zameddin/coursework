@@ -1,0 +1,322 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body{
+    margin: 0;
+}.main-5{
+    width: 100%;
+    font-family: roboto;
+    background-color: yellow;
+}
+/*.mydiv-5{
+    width:100%;
+    background-color: aquamarine;
+}*/
+.gray-div-5{
+    background-color: #EFEFEF;
+}
+.gray-box-5{
+    width:879px;
+    padding: 40px 0 90px 90px;
+
+}
+.h-two-5{
+    font-family:roboto slab;
+    font-size: 55px;
+}
+.boxw-5{
+    width: 700px;
+    padding: 40px;
+    background-color:white;
+    box-shadow: 1px 1px 8px 3px rgb(195 192 183);
+    border-radius: 20px;
+}
+.boxw-text-5{
+    font-size: 20px;
+}
+.boxw-bottom-5{
+    display: flex;
+}
+.h-three-5{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+/*  ** BLUE DIV-5 STYLE  ***/
+.blue-div-5{
+    background-color: #9DC9C8;
+}
+.blue-box-5{
+    width: 790px;
+    padding: 100px 0 100px 90px;
+}
+.paragraph-5{
+    font-size: 25px;
+    margin:0px;
+}
+.paragraph-rub-5{
+    font-size: 75px;
+    margin-top:0px;
+}
+.blue-bottom-5{
+    display: flex;
+    font-size: 18px;
+    padding-bottom:50px;
+}
+.blue-b-lr-5{
+    width: 245px;
+    margin-right: 55px;
+}
+/*  ** FOOTER DIV-5 STYLE  ***/
+.footer-5{
+    background-color: black;
+    color: white;
+}
+.footer-box-5{
+    padding: 50px 0 20px 90px;
+}
+.footer-lr-5{
+    width: 1172px;
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.footer-logolar-5{
+margin-top: 20px;
+}
+.footer-logolar-5 img{
+    margin-right: 10px;
+}
+.footer-right-5{
+    margin-right: 2%;
+    font-size: 20px;
+}
+.footer-img-span-5{
+    margin-bottom: 7px;
+}
+/*  ************************************ MEDIA SCREEN  ********************************************/
+@media screen and (min-width:992px) and (max-width:1280px){
+    .gray-box-5{
+        width:800px;
+        padding: 80px 0 80px 80px;
+    }
+    .h-two-5{
+        font-size:48px;
+    }
+    .boxw-5{
+        width: 600px;
+    }
+    .boxw-text-5 {
+            font-size: 17px;
+    }
+    .fb-img-5{
+        width:18px;
+    }
+    .h-three-5 {
+        font-size: 25px;
+    }
+     .blue-box-5 {
+        width: 690px;
+        padding: 90px 0 90px 80px;
+    } 
+    .paragraph-5{
+        font-size: 20px;
+    }  
+    .paragraph-rub-5{
+        font-size: 65px;
+    }
+    .blue-bottom-5{
+        font-size: 15px;
+    }
+    .footer-lr-5 {
+        width: 865px;
+    }
+    .footer-right-5 {
+        font-size: 16px;
+    }
+}
+
+@media screen and (min-width:0px) and (max-width:991px){
+    .footer-lr-5 {
+        display: block;
+    }
+}
+/*****************/
+@media screen and (min-width:670px) and (max-width:991px){
+    .gray-box-5{
+        width:440px;
+        padding: 40px 0 75px 0;
+        margin: 0 auto;
+    }
+    .h-two-5{
+        font-size: 26px;
+    }
+    .boxw-5{
+        width: 380px;
+        padding: 30px;
+    }
+    .boxw-text-5 {
+        font-size: 10px;
+    }
+    .girl-image-5{
+        width: 150px;
+    }
+    .fb-img-5{
+        width:14px;
+    }
+    .h-three-5 {
+        font-size: 14px;
+    } 
+    .blue-box-5 {
+        width: 370px;
+        padding: 70px 0 0px 0px;
+        margin: 0 auto;
+    }
+    .paragraph-5 {
+        font-size: 12px;
+    }
+    .paragraph-rub-5 {
+        font-size: 37px;
+    }
+     .footer-box-5 {
+        width: 370px;
+        padding: 50px 0 20px 0px;
+        margin: 0 auto;
+    }
+    .footer-box-5 img{
+        width: 20px;
+    }
+    .footer-lr-5 {
+        width:100%;
+        margin-bottom: 50px;
+    }
+    .footer-left-5{
+        margin-bottom: 50px;
+    }    
+    .footer-right-5{
+        font-size: 14px;
+    }
+    .whitext-class-5{
+        width: 95px !important;
+    }
+}
+
+@media screen and (min-width:440px) and (max-width:669px){
+    .gray-box-5{
+        width:330px;
+        padding: 20px 0 50px 0;
+        margin: 0 auto;
+    }
+    .h-two-5{
+        font-size: 26px;
+    }
+    .boxw-5{
+        width: 285px;
+        padding: 20px;
+    }
+    .boxw-text-5 {
+        font-size: 10px;
+    }
+    .girl-image-5{
+        width: 150px;
+    }.h-three-5 {
+        font-size: 14px;
+    }
+    .blue-box-5 {
+        width: 370px;
+        padding: 50px 0 0px 0px;
+        margin: 0 auto;
+    } 
+    .paragraph-5 {
+        font-size: 12px;
+    }
+    .paragraph-rub-5 {
+        font-size: 37px;
+    }
+    .blue-bottom-5{
+        font-size: 10px;
+    }
+    .footer-box-5 {
+        width: 370px;
+        padding: 50px 0 20px 0px;
+        margin: 0 auto;
+    }
+    .whitext-class-5 {
+        width: 95px !important;
+    }
+    .footer-left-5  img{
+        width: 20px;
+    }
+   
+    .footer-lr-5 {
+        width:100%;
+        margin-bottom: 50px;
+    }
+    .footer-left-5{
+        margin-bottom: 50px;
+    }
+    .footer-right-5 span{
+        font-size: 12px;
+    }
+    .son-setir-5{
+        font-size: 14px;
+    }
+}
+
+@media screen and (min-width:320px) and (max-width:439px){
+    .gray-box-5{
+        width:290px;
+        padding: 20px 0 50px 0;
+        margin: 0 auto;
+    }
+    .boxw-5{
+        width: 255px;
+        padding: 20px;
+    }
+    .h-two-5{
+        font-size: 26px;
+    }
+    .boxw-text-5 {
+        font-size: 10px;
+    }
+    .girl-image-5{
+        width: 150px;
+    }
+    .h-three-5 {
+        font-size: 14px;
+    } 
+    .blue-box-5 {
+        width: 270px;
+        padding: 50px 0 0px 0px;
+        margin: 0 auto;
+    } 
+    .paragraph-5 {
+        font-size: 12px;
+    }
+    .paragraph-rub-5 {
+        font-size: 37px;
+    }
+    .blue-bottom-5{
+        font-size: 10px;
+    }
+    .footer-box-5 {
+        width: 270px;
+        padding: 50px 0 20px 0px;
+        margin: 0 auto;
+    }
+    .footer-box-5 img{
+        width: 20px;
+    }
+    .footer-lr-5 {
+        width:100%;
+        margin-bottom: 50px;
+    }
+    .footer-left-5{
+        margin-bottom: 50px;
+    }
+    .footer-right-5 span{
+        font-size: 12px;
+    }
+    .son-setir-5{
+    font-size: 12px;
+    }
+}
